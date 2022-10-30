@@ -46,8 +46,8 @@
 	      </tr>
 	    </thead>
 	    <tbody>
-			<tr th:each="item : ${allProducts}">
-			  <td th:text="${item.name}"></td>
+			<tr th:each="item,iterator : ${allProducts}">
+			  <td th:text="${#strings.concat(iterator.index, '-', item.name)}"></td>
 			  <td th:text="${item.price}"></td>
 			</tr>		
 		</tbody>
