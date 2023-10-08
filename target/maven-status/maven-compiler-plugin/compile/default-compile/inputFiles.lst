@@ -1,0 +1,13 @@
+C:\dev\cms-project\springboot-blog-api\src\main\java\com\dotarsoyak\blog\entities\Post.java
+C:\dev\cms-project\springboot-blog-api\src\main\java\com\dotarsoyak\blog\services\CommentServiceImpl.java
+C:\dev\cms-project\springboot-blog-api\src\main\java\com\dotarsoyak\blog\entities\Comment.java
+C:\dev\cms-project\springboot-blog-api\src\main\java\com\dotarsoyak\blog\config\WebConfig.java
+C:\dev\cms-project\springboot-blog-api\src\main\java\com\dotarsoyak\blog\controllers\PostController.java
+C:\dev\cms-project\springboot-blog-api\src\main\java\com\dotarsoyak\blog\services\CommentService.java
+C:\dev\cms-project\springboot-blog-api\src\main\java\com\dotarsoyak\blog\SpringbootBlogApiApplication.java
+C:\dev\cms-project\springboot-blog-api\src\main\java\com\dotarsoyak\blog\services\PostServiceImpl.java
+C:\dev\cms-project\springboot-blog-api\src\main\java\com\dotarsoyak\blog\models\PostRequest.java
+C:\dev\cms-project\springboot-blog-api\src\main\java\com\dotarsoyak\blog\services\PostService.java
+C:\dev\cms-project\springboot-blog-api\src\main\java\com\dotarsoyak\blog\repositories\PostRepository.java
+C:\dev\cms-project\springboot-blog-api\src\main\java\com\dotarsoyak\blog\config\ControllerExceptionHandler.java
+C:\dev\cms-project\springboot-blog-api\src\main\java\com\dotarsoyak\blog\repositories\CommentRepository.java
